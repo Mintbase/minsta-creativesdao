@@ -51,14 +51,14 @@ const RewardsModal = ({
               <span className="font-bold">{texts.prizes.one}</span>
               <p className="text-sm">{texts.prizes.title_one}</p>
             </div>
-            <div className="gap-3 items-center">
+            {/* <div className="gap-3 items-center">
               <span className="font-bold">{texts.prizes.two}</span>
               <p className="text-sm">{texts.prizes.title_two}</p>
             </div>
             <div className="gap-3 items-center ml-1">
               <span className="font-bold">{texts.prizes.three}</span>
               <p className="text-sm">{texts.prizes.title_three}</p>
-            </div>
+            </div> */}
           </div>
 
           <div className="mb-14 text-center">
